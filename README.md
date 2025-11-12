@@ -74,3 +74,7 @@
 
 > https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
 
+
+#### 3.1 참고) 마크다운 언어를 사용할 때 주의점
+Visual Studio Code의 Markdown Preview Enhanced 익스텐션을 이용해 문서 편집을 할 때, 미려하게 작성되는 마크다운 문서만을 보고 ```git push```를 감행하다 보면 깃허브에서는 다른 모습으로 적용된 모습을 확인할 수 있었다.
+그 원인으로 지목되는 것은 GitHub에서 ```<style>``` 태그 블록은 HTML 문서가 아닌 텍스트로 인식을 하게 되어 스타일 지정이 되지 않는다는 것이다.
