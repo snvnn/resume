@@ -1,8 +1,8 @@
 ## 프로필
 
-<table width="100%">
+<table width="200%">
   <tr>
-    <td width="5%" valign="top">
+    <td width="45%" valign="top">
     <strong>기본 인적사항</strong> <br>
     <strong>이름:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 윤현<br>
     <strong>생년월일:</strong>&nbsp;&nbsp;&nbsp;&nbsp; 2001. 12. 05.<br>
