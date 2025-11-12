@@ -1,64 +1,25 @@
-## 기본 인적사항
-<div>
-  <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none;">
-    <tr>
-      <td rowspan="4" width="160" align="center" valign="middle">
-        <img src="media/profile.jpg" alt="프로필 사진" width="150" height="200">
-      </td>
-      <td width="25%"><strong>이름</strong></td>
-      <td width="50%">윤현</td>
-    </tr>
-    <tr>
-      <td width="25%"><strong>생년월일</strong></td>
-      <td width="50%"><nobr>2001. 12. 05.</nobr></td>
-    </tr>
-    <tr>
-      <td width="25%"><strong>연락처</strong></td>
-      <td width="50%"><nobr>32203004@dankook.ac.kr</nobr></td>
-    </tr>
-    <tr>
-      <td width="25%"><strong>GitHub / LinkedIn</strong></td>
-      <td width="50%">
-        <a href="https://github.com/snvnn"><img src="media/github.png" alt="GitHub" height="20"></a>
-        <a href="https://www.linkedin.com/in/%ED%98%84-%EC%9C%A4-712949391/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="20">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## 프로필
 
-<hr>
+<table width="100%">
+  <tr>
+    <td width="5%" valign="top">
+    <strong>기본 인적사항</strong> <br>
+    <strong>이름:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 윤현<br>
+    <strong>생년월일:</strong>&nbsp;&nbsp;&nbsp;&nbsp; 2001. 12. 05.<br>
+    <strong>연락처:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32203004@dankook.ac.kr<br>
+    <strong>GitHub:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><a href="https://github.com/snvnn"><img src="media/github.png" alt="GitHub" height="20"></a>
+    </td>
+    <td width="55%" valign="top">
+    <strong>학력 및 경력사항</strong><br>
+    온양권곡초등학교 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2008. 03. ~ 2014. 02<br>
+    아산중학교 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014. 03. ~ 2017. 02<br>
+    아산고등학교 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017. 03. ~ 2020. 02<br>
+    단국대학교 소프트웨어학과  &nbsp;&nbsp;&nbsp;&nbsp;  2020. 03. ~ 재학중
+    </td>
+  </tr>
+</table>
 
-## 학력 및 경력사항
-<div>
-  <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none;">
-    <tr>
-      <td width="55%">온양권곡초등학교</td>
-      <td width="15%" align="center"><nobr>2008.03</nobr></td>
-      <td width="5%" align="center">~</td>
-      <td width="15%" align="center"><nobr>2014.02</nobr></td>
-    </tr>
-    <tr>
-      <td width="55%">아산중학교</td>
-      <td width="15%" align="center"><nobr>2014.03</nobr></td>
-      <td width="5%" align="center">~</td>
-      <td width="15%" align="center"><nobr>2017.02</nobr></td>
-    </tr>
-    <tr>
-      <td width="55%">아산고등학교</td>
-      <td width="15%" align="center"><nobr>2017.03</nobr></td>
-      <td width="5%" align="center">~</td>
-      <td width="15%" align="center"><nobr>2020.02</nobr></td>
-    </tr>
-    <tr>
-      <td width="55%">단국대학교 소프트웨어학과</td>
-      <td width="15%" align="center"><nobr>2020.03</nobr></td>
-      <td width="5%" align="center">~</td>
-      <td width="15%" align="center"><nobr>재학중</nobr></td>
-    </tr>
-  </table>
-</div>
+
 
 <hr>
 
@@ -102,7 +63,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none;"><thead>
   <tr>
-    <th width="25%" align="center">군별</th>
+    <th width="25%" align="center">종류</th>
     <th width="40%" align="center">군번</th>
     <th width="35%" align="center">기간</th>
   </tr></thead>
@@ -118,3 +79,4 @@
 <hr>
 
 ## 자기소개
+># 뭐

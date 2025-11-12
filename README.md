@@ -49,6 +49,7 @@
 
 ### 2. 참고한 이력서 양식 및 내용
  > https://help.miricanvas.com/hc/ko/articles/900003333746-%EB%AC%B4%EB%A3%8C-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%91%EC%8B%9D-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-10%EC%A2%85-%EC%84%B8%ED%8A%B8
+ > https://romanc3.tistory.com/84
 
 
 
