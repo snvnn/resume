@@ -31,13 +31,13 @@
 |:--:|:--:|:--:|:--:|
 |육군|병장|21-76024744|2021. 04. ~ 2022. 10.|
 
-<hr>
+---
 
 ## 대외활동
 
 - **대학·기업 협력형 아카데미 TABA 6기 수료** 2024. 09. ~ 2024. 12.
 
-<hr>
+---
 
 ## 기술 스택
 
@@ -53,8 +53,7 @@
 ### Frontend
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png" height="15"> **React를 이용한 프로토타입 웹 페이지 구성**  <a href="https://github.com/TABA6-4/React">프로젝트 링크<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="15"></a>
 
-
-<hr>
+---
 
 ## 자기소개
 > ### **남다른 러닝 커브**를 통해 빠른 적응력을 보여주는 개발자 윤현입니다. 

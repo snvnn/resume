@@ -31,7 +31,7 @@
 
 <table class="tg"><thead>
   <tr>
-    <td class="tg-0pky" rowspan="3"><img src= "media/profile.jpg" width = "120"></td>
+    <td class="tg-0pky" rowspan="3"></td>
     <td class="tg-0lax">이름</td>
     <td class="tg-0lax">윤현<br></td>
   </tr>
@@ -48,7 +48,9 @@
 
 
 
-**HTML을 이용해 테이블을 작성하는 이유**: 마크다운이 지원하는 테이블 기능은 셀 병합 등의 기능이 매우 제한적이기 때문에, 원하는 형태의 테이블을 작성하기 위해서는 HTML을 사용하는 편이 낫다.
+~~**HTML을 이용해 테이블을 작성하는 이유**: 마크다운이 지원하는 테이블 기능은 셀 병합 등의 기능이 매우 제한적이기 때문에, 원하는 형태의 테이블을 작성하기 위해서는 HTML을 사용하는 편이 낫다.~~
+
+**GitHub에서는 CSS Style이 렌더링되지 않기 때문에 섬세한 테이블 작성을 기대하기 어렵다.**
 
 추가로, 이렇게 생성된 테이블은 디자인이 깔끔한 편은 아니니 HTML 코드의 수정이 일부 필요할 수 있다.
 
