@@ -30,7 +30,7 @@
 
 <hr>
 
-## 학력
+## 학력 및 경력사항
 <div>
   <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none;">
     <tr>
@@ -64,14 +64,32 @@
 
 ## 병역사항
 
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none;"><thead>
+  <tr>
+    <th width="20%" align="center">군별</th>
+    <th width="20%" align="center">계급</th>
+    <th width="40%" align="center">군번</th>
+    <th width="35%" align="center">기간</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td width="20%" align="center">육군</td>
+    <td width="20%" align="center">병장</td>
+    <td width="40%" align="center">21-76024744</td>
+    <td width="30%" align="center"><nobr>2021. 04. ~ 2022. 10.</nobr></td>
+  </tr>
+</tbody>
+</table>
+
 <hr>
 
 ## 프로젝트 및 대외활동
 <div>
   <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none;">
     <tr>
-      <td width="70%">대학·기업 협력형 아카데미 TABA 6기 수료</td>
-      <td width="10%" align="center"><nobr>2024.09</nobr></td>
+      <td width="55%">대학·기업 협력형 아카데미 TABA 6기 수료</td>
+      <td width="15%" align="center"><nobr>2024.09</nobr></td>
       <td width="5%" align="center">~</td>
       <td width="15%" align="center"><nobr>2024.12</nobr></td>
     </tr>
@@ -81,6 +99,21 @@
 <hr>
 
 ## 기술 스택
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:none;"><thead>
+  <tr>
+    <th width="25%" align="center">군별</th>
+    <th width="40%" align="center">군번</th>
+    <th width="35%" align="center">기간</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td width="25%" align="center">육군</td>
+    <td width="40%" align="center">21-76024744</td>
+    <td width="35%" align="center"><nobr>2021. 04. ~ 2022. 10.</nobr></td>
+  </tr>
+</tbody>
+</table>
 
 <hr>
 

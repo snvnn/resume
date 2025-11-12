@@ -4,15 +4,7 @@
 원하는 형식의 테이블을 제작한 다음, 생성된 HTML을 .md 파일에 붙여넣기 하면 쉽게 적용할 수 있다.
 
 ``` HTML
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg"><thead>
   <tr>
     <td class="tg-0pky" rowspan="3"></td>
@@ -30,16 +22,8 @@
 </table>
 ```
 
-이렇게 생성된 HTML 문서를 마크다운 문서에 옮기면 간편하게 테이블 추가 가능하다
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+이렇게 생성된 HTML 문서를 마크다운 문서에 옮기면 간편하게 테이블 추가가 가능하다.
+
 <table class="tg"><thead>
   <tr>
     <td class="tg-0pky" rowspan="3"><img src= "media/profile.jpg" width = "120"></td>
