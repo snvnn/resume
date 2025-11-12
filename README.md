@@ -43,13 +43,13 @@
 
 ### Backend
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="15"> **SpringBoot 프레임워크를 이용한 RESTful API 구현** <a href="https://github.com/TABA6-4/Backend">프로젝트 링크<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="15"></a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="15"> **SpringBoot 프레임워크를 이용한 RESTful API 설계 및 서비스 로직 구현** <a href="https://github.com/TABA6-4/Backend">프로젝트 링크<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="15"></a>
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="15"> **SwaggerUI를 이용한 API 명세서 문서화 자동화**
 
 - <img src="https://www.svgrepo.com/show/372275/ci-cd.svg" height="15"> **GitHub Action을 이용해 CI/CD 파이프라인 구축 및 AWS EC2와 연계하여 업데이트 자동화**
 
-- <img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" height="15"> **Docker를 활용한 소프트웨어 패키징 및 배포 자동화**
+- <img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" height="15"> **Docker를 활용한 환경 분리 및 컨테이너 기반 배포 자동화**
 ### Frontend
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png" height="15"> **React를 이용한 프로토타입 웹 페이지 구성**  <a href="https://github.com/TABA6-4/React">프로젝트 링크<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="15"></a>
 
