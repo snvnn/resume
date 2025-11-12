@@ -1,14 +1,14 @@
 ## 프로필
 
-**이름**: 윤현
+- **이름**: 윤현
 
-**생년월일**: 2001. 12. 05.
+- **생년월일**: 2001. 12. 05.
 
-**연락처**: 32203004@dankook.ac.kr
+- **연락처**: 32203004@dankook.ac.kr
 
-**GitHub**: <a href="https://github.com/snvnn"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="15"></a>
+- **GitHub**: <a href="https://github.com/snvnn"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="15"></a>
 
-**LinkedIn**: <a href="https://www.linkedin.com/in/%ED%98%84-%EC%9C%A4-712949391/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="GitHub" height="15"></a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/%ED%98%84-%EC%9C%A4-712949391/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="GitHub" height="15"></a>
 
 ---
 
@@ -47,7 +47,7 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="15"> **SwaggerUI를 이용한 API 명세서 문서화 자동화**
 
-- <img src="https://www.svgrepo.com/show/372275/ci-cd.svg" height="15"> **CI/CD 파이프라인 구축 및 AWS EC2와 연계하여 업데이트 자동화**
+- <img src="https://www.svgrepo.com/show/372275/ci-cd.svg" height="15"> **GitHub Action을 이용해 CI/CD 파이프라인 구축 및 AWS EC2와 연계하여 업데이트 자동화**
 
 - <img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" height="15"> **Docker를 활용한 소프트웨어 패키징 및 배포 자동화**
 ### Frontend
